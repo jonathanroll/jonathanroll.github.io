@@ -1,0 +1,7 @@
+defaults:
+	-
+		scope:
+		path: ""
+		values:
+		title: "Github Pages Blog"
+		layout: "default"
